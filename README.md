@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Linux architecture, device drivers and kernel modules
-- 🌱 I’m currently learning GitHub and Javascript
+- 🔭 I’m currently working on Automotive solutions
+- 🌱 I’m currently learning GitHub and Python
 - 👯 I’m looking to collaborate on challenging projects which enhance my knowledge
 - 💬 Ask me about my love of Music and Guitars
 
